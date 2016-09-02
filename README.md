@@ -1,6 +1,6 @@
 # pathfinding-demo
 
-A demonstration project including a pseudo-randomly generated map of starsystems connected by a line network, and pathfinding for the shortest route from start to goal over this network. This project is a simplified example of how pathfinding might work in something like a 4X game with procedurally generated galaxy.
+A demonstration project made with the Unity3D engine, including a pseudo-randomly generated map of starsystems connected by a line network, and pathfinding for the shortest route from start to goal over this network. This project is a simplified example of how pathfinding might work in something like a 4X game with procedurally generated galaxy.
 
 The user is able to interact by selecting starsystems, after which the calculated route will be highlighted.
 
